@@ -3,9 +3,6 @@ import './index.css'
 import logo from './Razor.jpg'
 import axios from 'axios'
 
-
-
-
 const App = () => {
   const [data,setdata] = useState({
     username:"",
